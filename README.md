@@ -1,7 +1,7 @@
 # sda-test-repo
 ## Filip
 * coś jeszcze  
-teks
+tekst
 
 
 
